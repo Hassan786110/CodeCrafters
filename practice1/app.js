@@ -22,7 +22,7 @@ function fizzBuzz(n) {
 }
 
 // image that 15 is the value of n
-fizzBuzz(15);
+// fizzBuzz(15);
 
 // Datatypes in JS
 // var type = 90; Number
@@ -30,3 +30,35 @@ fizzBuzz(15);
 // var type = true; Boolean
 
 // console.log(typeof type);
+
+// Operators
+// + Adition
+// - Subraction
+// * Multiplication
+// / Division
+// % Modulus
+
+// var num = 9 + 9; Addition
+// var num = "Muhammad " + "Hassan"; Concatination
+
+// Concatination = merge 2 values
+
+// var num = 9 + "9";
+
+// 3 ways to convert string datatype to number
+
+// var num = +"9";
+// var num = Number("9");
+// var num = parseInt("9");
+
+// Increment
+// Decrement
+
+// var num = 9;
+// num++; post increment
+// ++num; pre increment
+
+// num--; post decrement
+// --num; pre decrement
+
+// console.log(num);
