@@ -54,6 +54,10 @@
 
 // 7. replace (replace All the first word or character found in the paragraph or sentence)
 
+// 8. toString() (to convert number or boolean to string)
+// var num = 10;
+// console.log(num.toString());
+
 // var sentence =
 //   "Lorem ipsum dolor sit amet consectetur adipisicing elit. consectetur Molestias, architecto!";
 // var replacedSentence = sentence.replaceAll("consectetur", "!Hello World!");
@@ -77,3 +81,22 @@
 // console.log(Math.floor(num));
 
 // console.log(Math.random());
+
+// Controlling Length of Decimals
+// 1. toFixed() (shows only certain digits after decimal)
+
+// var num = 90.980761;
+// console.log(num.toFixed(4));
+
+// Functions are building blocks of our program
+// 1. Saves our time and efforts
+// 2. Make the code re-usable
+
+// function greetings(parameter) {
+// any value passed in between these brackets are called Parameters
+//   console.log("Welcome to practice session 3 " + parameter);
+// }
+
+// var argument = "Muhammad Hassan";
+// greetings(argument);
+// any value passed in between these brackets are called Arguments
